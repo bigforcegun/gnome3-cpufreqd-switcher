@@ -1,0 +1,8 @@
+{
+    "shell-version": ["3.2.0"], 
+    "uuid": "foobar_sample-bigforcegun@BFPC20L", 
+    "name": "foobar-sample", 
+    "original-author": "bigforcegun",
+    "url": "http://mydomain.org", 
+    "description": "foobar-sample"
+}

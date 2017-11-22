@@ -1,0 +1,11 @@
+{
+  "version": 0.01,
+  "name": "cpufreqd profiles switcher",
+  "settings-schema": "org.gnome.shell.extensions.cpufreqd-switcher",
+  "url": "https://github.com/bigforcegun/gnome3-cpufreqd-switcher",
+  "description": "TODO",
+  "uuid": "cpufreqd-switcher@bigforcegun.gmail.com",
+  "shell-version": [
+    "3.26.1"
+  ]
+}

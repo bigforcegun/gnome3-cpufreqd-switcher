@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extension-cpufreqd-switcher">
+    <enum id="org.gnome.shell.extensions.cpufreqd-switcher.position">
+        <value value="0" nick="center"/>
+        <value value="1" nick="right"/>
+        <value value="2" nick="left"/>
+    </enum>
+</schemalist>
