@@ -21,8 +21,6 @@ const St = imports.gi.St;
 const Main = imports.ui.main;
 const Tweener = imports.ui.tweener;
 
-// Other javascript files in the foobar_sample-bigforcegun@BFPC20L directory are accesible via Extension.<file name>
-const Extension = imports.ui.extensionSystem.extensions['foobar_sample-bigforcegun@BFPC20L'];
 
 let text, button;
 
